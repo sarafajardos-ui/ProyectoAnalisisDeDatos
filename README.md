@@ -27,13 +27,19 @@ La variable objetivo es **riesgo_vida**, transformada a una variable binaria par
 
 # Contenido del repositorio
 
-- `ACA2_AnalíticaTomaDecisiones.ipynb`  
+- `Análisis Exploratorio`  
   Notebook principal con todo el flujo de análisis:
   - Limpieza de datos  
   - Análisis exploratorio  
   - Modelado predictivo  
   - Evaluación de modelos  
   - Interpretabilidad (SHAP)
+ 
+- `Presentación`
+    - Pptx resumen del proyecto
+    
+- `Video`
+    - Video resumen de la presentación    
 
 - `README.md`  
   Documento descriptivo del proyecto (este archivo)
